@@ -2,8 +2,11 @@
   "name": "stock-api",
   "version": "2.0.8",
   "description": "免费股票数据分析相关接口",
-  "repository": "https://github.com/zhangxiangliang/stock-api",
-  "author": "zhangxiangliang",
+  "repository": "https://github.com/hhh373297732/stock-api",
+  "author": "NIKO",
+  "publishConfig": {
+    "@harrsion/registry": "https://npm.pkg.github.com"
+  },
   "keywords": [
     "股票",
     "数据分析",
